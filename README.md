@@ -8,3 +8,5 @@ different recipes.
 
 By completing this project I will have demonstrated my ability
 to write HTML code.
+
+[See live demo](https://sinabayati.github.io/odin-recipes/)
